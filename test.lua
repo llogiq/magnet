@@ -1,0 +1,1 @@
+print("magnet works.\n")
